@@ -1,7 +1,7 @@
 ## ✨ Welcome to my profile! ✨
 
 ### I'm a technology lover 🖤
-#### Currently learning JS and Java.
+#### Currently learning JS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ricarte-03a5931a0/)
 
