@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabi</h1>
 <h3 align="center">I'm a beginner developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Django** and working on some personal projects to practice my skills and would love to collaborate with others on open-source projects or learn from more experienced developers. I'm also interested in learning about front-end technologies and tools, so feel free to share any recommendations or resources with me!
+- 🌱 Currently, I'm dedicating my time to studying web development, with a focus on enhancing my skills in Django, JavaScript, and exploring key concepts related to scalability and security. In addition to my studies, I'm actively engaged in personal projects to apply and reinforce what I've learned. I'm open to collaborating on open-source projects and eager to learn from more experienced developers. I have a particular interest in front-end technologies and tools, so please feel free to share any recommendations or resources with me!
 
 - 📫 How to reach me **gabiads0@gmail.com**
 
