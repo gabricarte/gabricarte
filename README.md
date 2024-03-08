@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gabi</h1>
+<h1 align="center">Hi! I'm Gabi</h1>
 <h3 align="center">I'm a beginner developer from Brazil.</h3>
 
 - 🌱 Currently, I'm dedicating my time to studying web development, with a focus on enhancing my skills JavaScript. I'm open to collaborating on open-source projects and eager to learn from more experienced developers. I have a particular interest in front-end technologies and tools, so please feel free to share any recommendations or resources with me!
 
 - 📫 How to reach me **gabiads0@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you can usually find me exploring new readings and playing chess. Let's connect and grow together! 😊**
+- ⚡ Fun fact **When I'm not coding, you can usually find me exploring new readings and watching films. Let's connect and grow together! 😊**
 
 
 <p align="left">
