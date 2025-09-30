@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Gabi</h1>
-<h3 align="center">I'm a beginner developer from Brazil.</h3>
+<h3 align="center">I'm a junior backend developer from Brazil.</h3>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
