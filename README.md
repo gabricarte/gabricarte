@@ -1,5 +1,8 @@
+<img width="1920" height="1080" alt="Blue Colorful 8Bit Game Presentation (2)" src="https://github.com/user-attachments/assets/07e7601e-8718-411f-b78a-ddd79adcd40a" />
+
 <h1 align="center">Hi! I'm Gabi</h1>
 <h3 align="center">I'm a junior backend developer from Brazil.</h3>
+<h3 align="center">📚 Technician in systems analysis and development.</h3>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
