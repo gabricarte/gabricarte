@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Blue Colorful 8Bit Game Presentation (2)" src="https://github.com/user-attachments/assets/07e7601e-8718-411f-b78a-ddd79adcd40a" />
+<img width="1920" height="1080" alt="Blue Colorful 8Bit Game Presentation (3)" src="https://github.com/user-attachments/assets/106aaf0b-540c-45ce-89e1-05e281e18e40" />
 
 <h1 align="center">Hi! I'm Gabi</h1>
 <h3 align="center">I'm a junior backend developer from Brazil.</h3>
